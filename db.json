@@ -1,0 +1,51 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "price": 32,
+      "img": "https://depot.qodeinteractive.com/wp-content/uploads/2017/01/h1-product-6-505x505.jpg",
+      "cartQuantity": 0,
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "price": 32,
+      "img": "https://depot.qodeinteractive.com/wp-content/uploads/2017/01/h1-product-6-505x505.jpg",
+      "isNew": true
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "price": 42,
+      "img": "https://depot.qodeinteractive.com/wp-content/uploads/2017/01/h1-product-7-505x505.jpg",
+      "cartQuantity": 0,
+      "isNew": false
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "price": 32,
+      "img": "https://depot.qodeinteractive.com/wp-content/uploads/2017/01/h1-product-5-505x505.jpg",
+      "cartQuantity": 4,
+      "isNew": false
+    },
+    {
+      "id": 5,
+      "title": "Product 5",
+      "price": 121,
+      "img": "https://depot.qodeinteractive.com/wp-content/uploads/2017/01/h1-product-4-505x505.jpg",
+      "cartQuantity": 0,
+      "isNew": false
+    },
+    {
+      "id": 6,
+      "title": "Product 6",
+      "price": 157,
+      "img": "https://depot.qodeinteractive.com/wp-content/uploads/2017/01/h1-product-3-1-505x505.jpg",
+      "cartQuantity": 0,
+      "isNew": true
+    }
+  ]
+}
